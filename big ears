@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img { 
+  width: 100%; 
+}
+</style>
+</head>
+<body>
+
+ 
+
+<img src="big ears.jpg" alt="bigears" width="1000">
+
+ 
+
+
+</body>
+</html>
